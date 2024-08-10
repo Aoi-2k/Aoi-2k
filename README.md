@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on SpringBoot Application
-- 📫 How to reach me ... nah you cant haha :)
+- 📫 How to reach me ... nah you can't haha :)
 - 😄 Pronouns: She
 - ⚡ Fun fact: She is bold and funny
 
